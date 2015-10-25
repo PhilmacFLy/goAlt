@@ -1,0 +1,22 @@
+return 
+{
+	[1.000000] = 
+	{
+		{{range $char := .}}
+		["{{$char.Main}}"] = 
+		{
+			["Alt"] = 
+			{
+				{{range $alt := $char.Alts}}["{{$alt.Name}}"] = true{{if $alt.Comma}},
+				{{end}}{{end}}
+			},
+			["Note"] = ""{{if $char.IsMain}},
+			["Main"] = true{{end}}
+		}{{if $char.Comma}},{{end}}{{end}}
+	},
+	[2.000000] = 100.000000,
+	[3.000000] = 100.000000,
+	[4.000000] = 700.000000,
+	[5.000000] = 300.000000,
+	[6.000000] = true
+}

@@ -7,12 +7,26 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
+	"path/filepath"
 	"strings"
+	"text/template"
 )
+
+type Alt struct {
+	Name  string
+	Comma bool
+}
 
 type Character struct {
 	Main string
 	Alts []string
+}
+
+type CharExport struct {
+	Main   string
+	Alts   []Alt
+	IsMain bool
+	Comma  bool
 }
 
 func (c *Character) Save() error {
@@ -39,17 +53,34 @@ func (c *Character) Load(f string) error {
 	return nil
 }
 
-func (c *Character) GetChars() string {
-	result := "[\"" + c.Main + "\"]\n"
-	result = result + "{\n"
-	result = result + "\t[\"Alt\"] = \n"
-	result = result + "\t{\n"
+func (c *Character) GetExport() []CharExport {
+	var res []CharExport
+	//Erstmal den Main Char
+	cm := CharExport{Main: c.Main, Comma: true}
 	for _, a := range c.Alts {
-		result = result + "\t\t[\"" + a + "\"],\n"
+		al := Alt{Name: a, Comma: true}
+		cm.Alts = append(cm.Alts, al)
 	}
-	result = result + "\t},\n"
+	cm.Alts[len(cm.Alts)-1].Comma = false
+	cm.IsMain = true
+	res = append(res, cm)
 
-	return result
+	//Dann der Rest
+	for _, c1 := range c.Alts {
+		cres := CharExport{Main: c1}
+		for _, c2 := range c.Alts {
+			if c2 != c1 {
+				al := Alt{Name: c2, Comma: true}
+				cres.Alts = append(cres.Alts, al)
+			}
+		}
+		al := Alt{Name: c.Main, Comma: false}
+		cres.Alts = append(cres.Alts, al)
+		cres.IsMain = false
+		cres.Comma = true
+		res = append(res, cres)
+	}
+	return res
 }
 
 func main() {
@@ -60,8 +91,6 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	fmt.Println(c)
-	fmt.Println(c.GetChars())
 
 	for text != "q\n" {
 		fmt.Println("===== Alttracker Generation ======")
@@ -101,5 +130,33 @@ func enterCharacter(reader *bufio.Reader) {
 }
 
 func generatePlugindata() {
+	Chars := loadAllChars()
 
+	t, err := template.ParseFiles("template.txt")
+	if err != nil {
+		log.Fatal(err)
+	}
+	outfile, err := os.Create("AltTracker.plugindata")
+	if err != nil {
+		log.Println(err)
+	}
+	fmt.Println(Chars)
+	w := bufio.NewWriter(outfile)
+	t.Execute(w, &Chars)
+	w.Flush()
+}
+
+func loadAllChars() []CharExport {
+	var res []CharExport
+	files, _ := ioutil.ReadDir("chars")
+	for _, f := range files {
+		if filepath.Ext(f.Name()) == ".json" {
+			c := Character{}
+			c.Load(f.Name())
+			add := c.GetExport()
+			res = append(res, add...)
+		}
+	}
+	res[len(res)-1].Comma = false
+	return res
 }

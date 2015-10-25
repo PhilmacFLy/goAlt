@@ -2,12 +2,290 @@ return
 {
 	[1.000000] = 
 	{
+		
+		["Baltars"] = 
+		{
+			["Alt"] = 
+			{
+				["Baltraz"] = true,
+				["Nafar"] = true,
+				["Donthir"] = true,
+				["Balters"] = true,
+				["Schol"] = true,
+				["Balterz"] = true,
+				["Balturs"] = true
+			},
+			["Note"] = "",
+			["Main"] = true
+		},
+		["Baltraz"] = 
+		{
+			["Alt"] = 
+			{
+				["Nafar"] = true,
+				["Donthir"] = true,
+				["Balters"] = true,
+				["Schol"] = true,
+				["Balterz"] = true,
+				["Balturs"] = true,
+				["Baltars"] = true
+			},
+			["Note"] = ""
+		},
+		["Nafar"] = 
+		{
+			["Alt"] = 
+			{
+				["Baltraz"] = true,
+				["Donthir"] = true,
+				["Balters"] = true,
+				["Schol"] = true,
+				["Balterz"] = true,
+				["Balturs"] = true,
+				["Baltars"] = true
+			},
+			["Note"] = ""
+		},
+		["Donthir"] = 
+		{
+			["Alt"] = 
+			{
+				["Baltraz"] = true,
+				["Nafar"] = true,
+				["Balters"] = true,
+				["Schol"] = true,
+				["Balterz"] = true,
+				["Balturs"] = true,
+				["Baltars"] = true
+			},
+			["Note"] = ""
+		},
+		["Balters"] = 
+		{
+			["Alt"] = 
+			{
+				["Baltraz"] = true,
+				["Nafar"] = true,
+				["Donthir"] = true,
+				["Schol"] = true,
+				["Balterz"] = true,
+				["Balturs"] = true,
+				["Baltars"] = true
+			},
+			["Note"] = ""
+		},
+		["Schol"] = 
+		{
+			["Alt"] = 
+			{
+				["Baltraz"] = true,
+				["Nafar"] = true,
+				["Donthir"] = true,
+				["Balters"] = true,
+				["Balterz"] = true,
+				["Balturs"] = true,
+				["Baltars"] = true
+			},
+			["Note"] = ""
+		},
+		["Balterz"] = 
+		{
+			["Alt"] = 
+			{
+				["Baltraz"] = true,
+				["Nafar"] = true,
+				["Donthir"] = true,
+				["Balters"] = true,
+				["Schol"] = true,
+				["Balturs"] = true,
+				["Baltars"] = true
+			},
+			["Note"] = ""
+		},
+		["Balturs"] = 
+		{
+			["Alt"] = 
+			{
+				["Baltraz"] = true,
+				["Nafar"] = true,
+				["Donthir"] = true,
+				["Balters"] = true,
+				["Schol"] = true,
+				["Balterz"] = true,
+				["Baltars"] = true
+			},
+			["Note"] = ""
+		},
+		["Braddoc"] = 
+		{
+			["Alt"] = 
+			{
+				["Hiacynthia"] = true,
+				["Newanda"] = true
+			},
+			["Note"] = "",
+			["Main"] = true
+		},
+		["Hiacynthia"] = 
+		{
+			["Alt"] = 
+			{
+				["Newanda"] = true,
+				["Braddoc"] = true
+			},
+			["Note"] = ""
+		},
+		["Newanda"] = 
+		{
+			["Alt"] = 
+			{
+				["Hiacynthia"] = true,
+				["Braddoc"] = true
+			},
+			["Note"] = ""
+		},
+		["Engwaarato"] = 
+		{
+			["Alt"] = 
+			{
+				["Engwaraato"] = true,
+				["Mafestoros"] = true,
+				["Celaldur"] = true,
+				["Engwatain"] = true,
+				["Engweorn"] = true,
+				["Engwarden"] = true,
+				["Enwaraato"] = true,
+				["Enwaarato"] = true
+			},
+			["Note"] = "",
+			["Main"] = true
+		},
+		["Engwaraato"] = 
+		{
+			["Alt"] = 
+			{
+				["Mafestoros"] = true,
+				["Celaldur"] = true,
+				["Engwatain"] = true,
+				["Engweorn"] = true,
+				["Engwarden"] = true,
+				["Enwaraato"] = true,
+				["Enwaarato"] = true,
+				["Engwaarato"] = true
+			},
+			["Note"] = ""
+		},
+		["Mafestoros"] = 
+		{
+			["Alt"] = 
+			{
+				["Engwaraato"] = true,
+				["Celaldur"] = true,
+				["Engwatain"] = true,
+				["Engweorn"] = true,
+				["Engwarden"] = true,
+				["Enwaraato"] = true,
+				["Enwaarato"] = true,
+				["Engwaarato"] = true
+			},
+			["Note"] = ""
+		},
+		["Celaldur"] = 
+		{
+			["Alt"] = 
+			{
+				["Engwaraato"] = true,
+				["Mafestoros"] = true,
+				["Engwatain"] = true,
+				["Engweorn"] = true,
+				["Engwarden"] = true,
+				["Enwaraato"] = true,
+				["Enwaarato"] = true,
+				["Engwaarato"] = true
+			},
+			["Note"] = ""
+		},
+		["Engwatain"] = 
+		{
+			["Alt"] = 
+			{
+				["Engwaraato"] = true,
+				["Mafestoros"] = true,
+				["Celaldur"] = true,
+				["Engweorn"] = true,
+				["Engwarden"] = true,
+				["Enwaraato"] = true,
+				["Enwaarato"] = true,
+				["Engwaarato"] = true
+			},
+			["Note"] = ""
+		},
+		["Engweorn"] = 
+		{
+			["Alt"] = 
+			{
+				["Engwaraato"] = true,
+				["Mafestoros"] = true,
+				["Celaldur"] = true,
+				["Engwatain"] = true,
+				["Engwarden"] = true,
+				["Enwaraato"] = true,
+				["Enwaarato"] = true,
+				["Engwaarato"] = true
+			},
+			["Note"] = ""
+		},
+		["Engwarden"] = 
+		{
+			["Alt"] = 
+			{
+				["Engwaraato"] = true,
+				["Mafestoros"] = true,
+				["Celaldur"] = true,
+				["Engwatain"] = true,
+				["Engweorn"] = true,
+				["Enwaraato"] = true,
+				["Enwaarato"] = true,
+				["Engwaarato"] = true
+			},
+			["Note"] = ""
+		},
+		["Enwaraato"] = 
+		{
+			["Alt"] = 
+			{
+				["Engwaraato"] = true,
+				["Mafestoros"] = true,
+				["Celaldur"] = true,
+				["Engwatain"] = true,
+				["Engweorn"] = true,
+				["Engwarden"] = true,
+				["Enwaarato"] = true,
+				["Engwaarato"] = true
+			},
+			["Note"] = ""
+		},
+		["Enwaarato"] = 
+		{
+			["Alt"] = 
+			{
+				["Engwaraato"] = true,
+				["Mafestoros"] = true,
+				["Celaldur"] = true,
+				["Engwatain"] = true,
+				["Engweorn"] = true,
+				["Engwarden"] = true,
+				["Enwaraato"] = true,
+				["Engwaarato"] = true
+			},
+			["Note"] = ""
+		},
 		["Gullofbog"] = 
 		{
 			["Alt"] = 
 			{
-				["Harmkarl"] = true,
-				["Gedodram"] = true
+				["Gedodram"] = true,
+				["Harmkarl"] = true
 			},
 			["Note"] = "",
 			["Main"] = true
@@ -16,19 +294,932 @@ return
 		{
 			["Alt"] = 
 			{
-				["Gullofbog"] = true,
-				["Harmkarl"] = true
+				["Harmkarl"] = true,
+				["Gullofbog"] = true
 			},
-			["Notes"] = ""
+			["Note"] = ""
 		},
 		["Harmkarl"] = 
 		{
 			["Alt"] = 
 			{
-				["Gullofbog"] = true,
-				["Gedodram"] = true
+				["Gedodram"] = true,
+				["Gullofbog"] = true
 			},
-			["Notes"] = ""
+			["Note"] = ""
+		},
+		["Kalrod"] = 
+		{
+			["Alt"] = 
+			{
+				["Kalg"] = true,
+				["Kaldro"] = true,
+				["Kalbear"] = true,
+				["Kallorin"] = true
+			},
+			["Note"] = "",
+			["Main"] = true
+		},
+		["Kalg"] = 
+		{
+			["Alt"] = 
+			{
+				["Kaldro"] = true,
+				["Kalbear"] = true,
+				["Kallorin"] = true,
+				["Kalrod"] = true
+			},
+			["Note"] = ""
+		},
+		["Kaldro"] = 
+		{
+			["Alt"] = 
+			{
+				["Kalg"] = true,
+				["Kalbear"] = true,
+				["Kallorin"] = true,
+				["Kalrod"] = true
+			},
+			["Note"] = ""
+		},
+		["Kalbear"] = 
+		{
+			["Alt"] = 
+			{
+				["Kalg"] = true,
+				["Kaldro"] = true,
+				["Kallorin"] = true,
+				["Kalrod"] = true
+			},
+			["Note"] = ""
+		},
+		["Kallorin"] = 
+		{
+			["Alt"] = 
+			{
+				["Kalg"] = true,
+				["Kaldro"] = true,
+				["Kalbear"] = true,
+				["Kalrod"] = true
+			},
+			["Note"] = ""
+		},
+		["Longwing"] = 
+		{
+			["Alt"] = 
+			{
+				["Zondar"] = true,
+				["Flagherty"] = true,
+				["Flanegan"] = true,
+				["Cacofonix"] = true,
+				["Roonix"] = true,
+				["Mcvay"] = true,
+				["Geriatrix"] = true
+			},
+			["Note"] = "",
+			["Main"] = true
+		},
+		["Zondar"] = 
+		{
+			["Alt"] = 
+			{
+				["Flagherty"] = true,
+				["Flanegan"] = true,
+				["Cacofonix"] = true,
+				["Roonix"] = true,
+				["Mcvay"] = true,
+				["Geriatrix"] = true,
+				["Longwing"] = true
+			},
+			["Note"] = ""
+		},
+		["Flagherty"] = 
+		{
+			["Alt"] = 
+			{
+				["Zondar"] = true,
+				["Flanegan"] = true,
+				["Cacofonix"] = true,
+				["Roonix"] = true,
+				["Mcvay"] = true,
+				["Geriatrix"] = true,
+				["Longwing"] = true
+			},
+			["Note"] = ""
+		},
+		["Flanegan"] = 
+		{
+			["Alt"] = 
+			{
+				["Zondar"] = true,
+				["Flagherty"] = true,
+				["Cacofonix"] = true,
+				["Roonix"] = true,
+				["Mcvay"] = true,
+				["Geriatrix"] = true,
+				["Longwing"] = true
+			},
+			["Note"] = ""
+		},
+		["Cacofonix"] = 
+		{
+			["Alt"] = 
+			{
+				["Zondar"] = true,
+				["Flagherty"] = true,
+				["Flanegan"] = true,
+				["Roonix"] = true,
+				["Mcvay"] = true,
+				["Geriatrix"] = true,
+				["Longwing"] = true
+			},
+			["Note"] = ""
+		},
+		["Roonix"] = 
+		{
+			["Alt"] = 
+			{
+				["Zondar"] = true,
+				["Flagherty"] = true,
+				["Flanegan"] = true,
+				["Cacofonix"] = true,
+				["Mcvay"] = true,
+				["Geriatrix"] = true,
+				["Longwing"] = true
+			},
+			["Note"] = ""
+		},
+		["Mcvay"] = 
+		{
+			["Alt"] = 
+			{
+				["Zondar"] = true,
+				["Flagherty"] = true,
+				["Flanegan"] = true,
+				["Cacofonix"] = true,
+				["Roonix"] = true,
+				["Geriatrix"] = true,
+				["Longwing"] = true
+			},
+			["Note"] = ""
+		},
+		["Geriatrix"] = 
+		{
+			["Alt"] = 
+			{
+				["Zondar"] = true,
+				["Flagherty"] = true,
+				["Flanegan"] = true,
+				["Cacofonix"] = true,
+				["Roonix"] = true,
+				["Mcvay"] = true,
+				["Longwing"] = true
+			},
+			["Note"] = ""
+		},
+		["Osrif"] = 
+		{
+			["Alt"] = 
+			{
+				["Alysandalas"] = true,
+				["Dutchess"] = true,
+				["Aakraman"] = true,
+				["Azariele"] = true,
+				["Dharin"] = true,
+				["Gammi"] = true,
+				["Gurmunder"] = true,
+				["Hanistra"] = true,
+				["Kiatara"] = true,
+				["Rebus"] = true,
+				["Robinhoody"] = true,
+				["Sangoma"] = true,
+				["Tarben"] = true,
+				["Turpin"] = true,
+				["Ukkonen"] = true,
+				["Ursini"] = true,
+				["Varosi"] = true,
+				["Ysetta"] = true,
+				["Zyana"] = true,
+				["Zyggclotheshorse"] = true
+			},
+			["Note"] = "",
+			["Main"] = true
+		},
+		["Alysandalas"] = 
+		{
+			["Alt"] = 
+			{
+				["Dutchess"] = true,
+				["Aakraman"] = true,
+				["Azariele"] = true,
+				["Dharin"] = true,
+				["Gammi"] = true,
+				["Gurmunder"] = true,
+				["Hanistra"] = true,
+				["Kiatara"] = true,
+				["Rebus"] = true,
+				["Robinhoody"] = true,
+				["Sangoma"] = true,
+				["Tarben"] = true,
+				["Turpin"] = true,
+				["Ukkonen"] = true,
+				["Ursini"] = true,
+				["Varosi"] = true,
+				["Ysetta"] = true,
+				["Zyana"] = true,
+				["Zyggclotheshorse"] = true,
+				["Osrif"] = true
+			},
+			["Note"] = ""
+		},
+		["Dutchess"] = 
+		{
+			["Alt"] = 
+			{
+				["Alysandalas"] = true,
+				["Aakraman"] = true,
+				["Azariele"] = true,
+				["Dharin"] = true,
+				["Gammi"] = true,
+				["Gurmunder"] = true,
+				["Hanistra"] = true,
+				["Kiatara"] = true,
+				["Rebus"] = true,
+				["Robinhoody"] = true,
+				["Sangoma"] = true,
+				["Tarben"] = true,
+				["Turpin"] = true,
+				["Ukkonen"] = true,
+				["Ursini"] = true,
+				["Varosi"] = true,
+				["Ysetta"] = true,
+				["Zyana"] = true,
+				["Zyggclotheshorse"] = true,
+				["Osrif"] = true
+			},
+			["Note"] = ""
+		},
+		["Aakraman"] = 
+		{
+			["Alt"] = 
+			{
+				["Alysandalas"] = true,
+				["Dutchess"] = true,
+				["Azariele"] = true,
+				["Dharin"] = true,
+				["Gammi"] = true,
+				["Gurmunder"] = true,
+				["Hanistra"] = true,
+				["Kiatara"] = true,
+				["Rebus"] = true,
+				["Robinhoody"] = true,
+				["Sangoma"] = true,
+				["Tarben"] = true,
+				["Turpin"] = true,
+				["Ukkonen"] = true,
+				["Ursini"] = true,
+				["Varosi"] = true,
+				["Ysetta"] = true,
+				["Zyana"] = true,
+				["Zyggclotheshorse"] = true,
+				["Osrif"] = true
+			},
+			["Note"] = ""
+		},
+		["Azariele"] = 
+		{
+			["Alt"] = 
+			{
+				["Alysandalas"] = true,
+				["Dutchess"] = true,
+				["Aakraman"] = true,
+				["Dharin"] = true,
+				["Gammi"] = true,
+				["Gurmunder"] = true,
+				["Hanistra"] = true,
+				["Kiatara"] = true,
+				["Rebus"] = true,
+				["Robinhoody"] = true,
+				["Sangoma"] = true,
+				["Tarben"] = true,
+				["Turpin"] = true,
+				["Ukkonen"] = true,
+				["Ursini"] = true,
+				["Varosi"] = true,
+				["Ysetta"] = true,
+				["Zyana"] = true,
+				["Zyggclotheshorse"] = true,
+				["Osrif"] = true
+			},
+			["Note"] = ""
+		},
+		["Dharin"] = 
+		{
+			["Alt"] = 
+			{
+				["Alysandalas"] = true,
+				["Dutchess"] = true,
+				["Aakraman"] = true,
+				["Azariele"] = true,
+				["Gammi"] = true,
+				["Gurmunder"] = true,
+				["Hanistra"] = true,
+				["Kiatara"] = true,
+				["Rebus"] = true,
+				["Robinhoody"] = true,
+				["Sangoma"] = true,
+				["Tarben"] = true,
+				["Turpin"] = true,
+				["Ukkonen"] = true,
+				["Ursini"] = true,
+				["Varosi"] = true,
+				["Ysetta"] = true,
+				["Zyana"] = true,
+				["Zyggclotheshorse"] = true,
+				["Osrif"] = true
+			},
+			["Note"] = ""
+		},
+		["Gammi"] = 
+		{
+			["Alt"] = 
+			{
+				["Alysandalas"] = true,
+				["Dutchess"] = true,
+				["Aakraman"] = true,
+				["Azariele"] = true,
+				["Dharin"] = true,
+				["Gurmunder"] = true,
+				["Hanistra"] = true,
+				["Kiatara"] = true,
+				["Rebus"] = true,
+				["Robinhoody"] = true,
+				["Sangoma"] = true,
+				["Tarben"] = true,
+				["Turpin"] = true,
+				["Ukkonen"] = true,
+				["Ursini"] = true,
+				["Varosi"] = true,
+				["Ysetta"] = true,
+				["Zyana"] = true,
+				["Zyggclotheshorse"] = true,
+				["Osrif"] = true
+			},
+			["Note"] = ""
+		},
+		["Gurmunder"] = 
+		{
+			["Alt"] = 
+			{
+				["Alysandalas"] = true,
+				["Dutchess"] = true,
+				["Aakraman"] = true,
+				["Azariele"] = true,
+				["Dharin"] = true,
+				["Gammi"] = true,
+				["Hanistra"] = true,
+				["Kiatara"] = true,
+				["Rebus"] = true,
+				["Robinhoody"] = true,
+				["Sangoma"] = true,
+				["Tarben"] = true,
+				["Turpin"] = true,
+				["Ukkonen"] = true,
+				["Ursini"] = true,
+				["Varosi"] = true,
+				["Ysetta"] = true,
+				["Zyana"] = true,
+				["Zyggclotheshorse"] = true,
+				["Osrif"] = true
+			},
+			["Note"] = ""
+		},
+		["Hanistra"] = 
+		{
+			["Alt"] = 
+			{
+				["Alysandalas"] = true,
+				["Dutchess"] = true,
+				["Aakraman"] = true,
+				["Azariele"] = true,
+				["Dharin"] = true,
+				["Gammi"] = true,
+				["Gurmunder"] = true,
+				["Kiatara"] = true,
+				["Rebus"] = true,
+				["Robinhoody"] = true,
+				["Sangoma"] = true,
+				["Tarben"] = true,
+				["Turpin"] = true,
+				["Ukkonen"] = true,
+				["Ursini"] = true,
+				["Varosi"] = true,
+				["Ysetta"] = true,
+				["Zyana"] = true,
+				["Zyggclotheshorse"] = true,
+				["Osrif"] = true
+			},
+			["Note"] = ""
+		},
+		["Kiatara"] = 
+		{
+			["Alt"] = 
+			{
+				["Alysandalas"] = true,
+				["Dutchess"] = true,
+				["Aakraman"] = true,
+				["Azariele"] = true,
+				["Dharin"] = true,
+				["Gammi"] = true,
+				["Gurmunder"] = true,
+				["Hanistra"] = true,
+				["Rebus"] = true,
+				["Robinhoody"] = true,
+				["Sangoma"] = true,
+				["Tarben"] = true,
+				["Turpin"] = true,
+				["Ukkonen"] = true,
+				["Ursini"] = true,
+				["Varosi"] = true,
+				["Ysetta"] = true,
+				["Zyana"] = true,
+				["Zyggclotheshorse"] = true,
+				["Osrif"] = true
+			},
+			["Note"] = ""
+		},
+		["Rebus"] = 
+		{
+			["Alt"] = 
+			{
+				["Alysandalas"] = true,
+				["Dutchess"] = true,
+				["Aakraman"] = true,
+				["Azariele"] = true,
+				["Dharin"] = true,
+				["Gammi"] = true,
+				["Gurmunder"] = true,
+				["Hanistra"] = true,
+				["Kiatara"] = true,
+				["Robinhoody"] = true,
+				["Sangoma"] = true,
+				["Tarben"] = true,
+				["Turpin"] = true,
+				["Ukkonen"] = true,
+				["Ursini"] = true,
+				["Varosi"] = true,
+				["Ysetta"] = true,
+				["Zyana"] = true,
+				["Zyggclotheshorse"] = true,
+				["Osrif"] = true
+			},
+			["Note"] = ""
+		},
+		["Robinhoody"] = 
+		{
+			["Alt"] = 
+			{
+				["Alysandalas"] = true,
+				["Dutchess"] = true,
+				["Aakraman"] = true,
+				["Azariele"] = true,
+				["Dharin"] = true,
+				["Gammi"] = true,
+				["Gurmunder"] = true,
+				["Hanistra"] = true,
+				["Kiatara"] = true,
+				["Rebus"] = true,
+				["Sangoma"] = true,
+				["Tarben"] = true,
+				["Turpin"] = true,
+				["Ukkonen"] = true,
+				["Ursini"] = true,
+				["Varosi"] = true,
+				["Ysetta"] = true,
+				["Zyana"] = true,
+				["Zyggclotheshorse"] = true,
+				["Osrif"] = true
+			},
+			["Note"] = ""
+		},
+		["Sangoma"] = 
+		{
+			["Alt"] = 
+			{
+				["Alysandalas"] = true,
+				["Dutchess"] = true,
+				["Aakraman"] = true,
+				["Azariele"] = true,
+				["Dharin"] = true,
+				["Gammi"] = true,
+				["Gurmunder"] = true,
+				["Hanistra"] = true,
+				["Kiatara"] = true,
+				["Rebus"] = true,
+				["Robinhoody"] = true,
+				["Tarben"] = true,
+				["Turpin"] = true,
+				["Ukkonen"] = true,
+				["Ursini"] = true,
+				["Varosi"] = true,
+				["Ysetta"] = true,
+				["Zyana"] = true,
+				["Zyggclotheshorse"] = true,
+				["Osrif"] = true
+			},
+			["Note"] = ""
+		},
+		["Tarben"] = 
+		{
+			["Alt"] = 
+			{
+				["Alysandalas"] = true,
+				["Dutchess"] = true,
+				["Aakraman"] = true,
+				["Azariele"] = true,
+				["Dharin"] = true,
+				["Gammi"] = true,
+				["Gurmunder"] = true,
+				["Hanistra"] = true,
+				["Kiatara"] = true,
+				["Rebus"] = true,
+				["Robinhoody"] = true,
+				["Sangoma"] = true,
+				["Turpin"] = true,
+				["Ukkonen"] = true,
+				["Ursini"] = true,
+				["Varosi"] = true,
+				["Ysetta"] = true,
+				["Zyana"] = true,
+				["Zyggclotheshorse"] = true,
+				["Osrif"] = true
+			},
+			["Note"] = ""
+		},
+		["Turpin"] = 
+		{
+			["Alt"] = 
+			{
+				["Alysandalas"] = true,
+				["Dutchess"] = true,
+				["Aakraman"] = true,
+				["Azariele"] = true,
+				["Dharin"] = true,
+				["Gammi"] = true,
+				["Gurmunder"] = true,
+				["Hanistra"] = true,
+				["Kiatara"] = true,
+				["Rebus"] = true,
+				["Robinhoody"] = true,
+				["Sangoma"] = true,
+				["Tarben"] = true,
+				["Ukkonen"] = true,
+				["Ursini"] = true,
+				["Varosi"] = true,
+				["Ysetta"] = true,
+				["Zyana"] = true,
+				["Zyggclotheshorse"] = true,
+				["Osrif"] = true
+			},
+			["Note"] = ""
+		},
+		["Ukkonen"] = 
+		{
+			["Alt"] = 
+			{
+				["Alysandalas"] = true,
+				["Dutchess"] = true,
+				["Aakraman"] = true,
+				["Azariele"] = true,
+				["Dharin"] = true,
+				["Gammi"] = true,
+				["Gurmunder"] = true,
+				["Hanistra"] = true,
+				["Kiatara"] = true,
+				["Rebus"] = true,
+				["Robinhoody"] = true,
+				["Sangoma"] = true,
+				["Tarben"] = true,
+				["Turpin"] = true,
+				["Ursini"] = true,
+				["Varosi"] = true,
+				["Ysetta"] = true,
+				["Zyana"] = true,
+				["Zyggclotheshorse"] = true,
+				["Osrif"] = true
+			},
+			["Note"] = ""
+		},
+		["Ursini"] = 
+		{
+			["Alt"] = 
+			{
+				["Alysandalas"] = true,
+				["Dutchess"] = true,
+				["Aakraman"] = true,
+				["Azariele"] = true,
+				["Dharin"] = true,
+				["Gammi"] = true,
+				["Gurmunder"] = true,
+				["Hanistra"] = true,
+				["Kiatara"] = true,
+				["Rebus"] = true,
+				["Robinhoody"] = true,
+				["Sangoma"] = true,
+				["Tarben"] = true,
+				["Turpin"] = true,
+				["Ukkonen"] = true,
+				["Varosi"] = true,
+				["Ysetta"] = true,
+				["Zyana"] = true,
+				["Zyggclotheshorse"] = true,
+				["Osrif"] = true
+			},
+			["Note"] = ""
+		},
+		["Varosi"] = 
+		{
+			["Alt"] = 
+			{
+				["Alysandalas"] = true,
+				["Dutchess"] = true,
+				["Aakraman"] = true,
+				["Azariele"] = true,
+				["Dharin"] = true,
+				["Gammi"] = true,
+				["Gurmunder"] = true,
+				["Hanistra"] = true,
+				["Kiatara"] = true,
+				["Rebus"] = true,
+				["Robinhoody"] = true,
+				["Sangoma"] = true,
+				["Tarben"] = true,
+				["Turpin"] = true,
+				["Ukkonen"] = true,
+				["Ursini"] = true,
+				["Ysetta"] = true,
+				["Zyana"] = true,
+				["Zyggclotheshorse"] = true,
+				["Osrif"] = true
+			},
+			["Note"] = ""
+		},
+		["Ysetta"] = 
+		{
+			["Alt"] = 
+			{
+				["Alysandalas"] = true,
+				["Dutchess"] = true,
+				["Aakraman"] = true,
+				["Azariele"] = true,
+				["Dharin"] = true,
+				["Gammi"] = true,
+				["Gurmunder"] = true,
+				["Hanistra"] = true,
+				["Kiatara"] = true,
+				["Rebus"] = true,
+				["Robinhoody"] = true,
+				["Sangoma"] = true,
+				["Tarben"] = true,
+				["Turpin"] = true,
+				["Ukkonen"] = true,
+				["Ursini"] = true,
+				["Varosi"] = true,
+				["Zyana"] = true,
+				["Zyggclotheshorse"] = true,
+				["Osrif"] = true
+			},
+			["Note"] = ""
+		},
+		["Zyana"] = 
+		{
+			["Alt"] = 
+			{
+				["Alysandalas"] = true,
+				["Dutchess"] = true,
+				["Aakraman"] = true,
+				["Azariele"] = true,
+				["Dharin"] = true,
+				["Gammi"] = true,
+				["Gurmunder"] = true,
+				["Hanistra"] = true,
+				["Kiatara"] = true,
+				["Rebus"] = true,
+				["Robinhoody"] = true,
+				["Sangoma"] = true,
+				["Tarben"] = true,
+				["Turpin"] = true,
+				["Ukkonen"] = true,
+				["Ursini"] = true,
+				["Varosi"] = true,
+				["Ysetta"] = true,
+				["Zyggclotheshorse"] = true,
+				["Osrif"] = true
+			},
+			["Note"] = ""
+		},
+		["Zyggclotheshorse"] = 
+		{
+			["Alt"] = 
+			{
+				["Alysandalas"] = true,
+				["Dutchess"] = true,
+				["Aakraman"] = true,
+				["Azariele"] = true,
+				["Dharin"] = true,
+				["Gammi"] = true,
+				["Gurmunder"] = true,
+				["Hanistra"] = true,
+				["Kiatara"] = true,
+				["Rebus"] = true,
+				["Robinhoody"] = true,
+				["Sangoma"] = true,
+				["Tarben"] = true,
+				["Turpin"] = true,
+				["Ukkonen"] = true,
+				["Ursini"] = true,
+				["Varosi"] = true,
+				["Ysetta"] = true,
+				["Zyana"] = true,
+				["Osrif"] = true
+			},
+			["Note"] = ""
+		},
+		["Qanuk"] = 
+		{
+			["Alt"] = 
+			{
+				["Kasiopeia"] = true,
+				["Vesla"] = true,
+				["Fullfres"] = true,
+				["Clarisse"] = true,
+				["Hardvit"] = true,
+				["Missmoneypenny"] = true
+			},
+			["Note"] = "",
+			["Main"] = true
+		},
+		["Kasiopeia"] = 
+		{
+			["Alt"] = 
+			{
+				["Vesla"] = true,
+				["Fullfres"] = true,
+				["Clarisse"] = true,
+				["Hardvit"] = true,
+				["Missmoneypenny"] = true,
+				["Qanuk"] = true
+			},
+			["Note"] = ""
+		},
+		["Vesla"] = 
+		{
+			["Alt"] = 
+			{
+				["Kasiopeia"] = true,
+				["Fullfres"] = true,
+				["Clarisse"] = true,
+				["Hardvit"] = true,
+				["Missmoneypenny"] = true,
+				["Qanuk"] = true
+			},
+			["Note"] = ""
+		},
+		["Fullfres"] = 
+		{
+			["Alt"] = 
+			{
+				["Kasiopeia"] = true,
+				["Vesla"] = true,
+				["Clarisse"] = true,
+				["Hardvit"] = true,
+				["Missmoneypenny"] = true,
+				["Qanuk"] = true
+			},
+			["Note"] = ""
+		},
+		["Clarisse"] = 
+		{
+			["Alt"] = 
+			{
+				["Kasiopeia"] = true,
+				["Vesla"] = true,
+				["Fullfres"] = true,
+				["Hardvit"] = true,
+				["Missmoneypenny"] = true,
+				["Qanuk"] = true
+			},
+			["Note"] = ""
+		},
+		["Hardvit"] = 
+		{
+			["Alt"] = 
+			{
+				["Kasiopeia"] = true,
+				["Vesla"] = true,
+				["Fullfres"] = true,
+				["Clarisse"] = true,
+				["Missmoneypenny"] = true,
+				["Qanuk"] = true
+			},
+			["Note"] = ""
+		},
+		["Missmoneypenny"] = 
+		{
+			["Alt"] = 
+			{
+				["Kasiopeia"] = true,
+				["Vesla"] = true,
+				["Fullfres"] = true,
+				["Clarisse"] = true,
+				["Hardvit"] = true,
+				["Qanuk"] = true
+			},
+			["Note"] = ""
+		},
+		["Vadendil"] = 
+		{
+			["Alt"] = 
+			{
+				["Aronhael"] = true,
+				["Eonaethryth"] = true
+			},
+			["Note"] = "",
+			["Main"] = true
+		},
+		["Aronhael"] = 
+		{
+			["Alt"] = 
+			{
+				["Eonaethryth"] = true,
+				["Vadendil"] = true
+			},
+			["Note"] = ""
+		},
+		["Eonaethryth"] = 
+		{
+			["Alt"] = 
+			{
+				["Aronhael"] = true,
+				["Vadendil"] = true
+			},
+			["Note"] = ""
+		},
+		["Xovamir"] = 
+		{
+			["Alt"] = 
+			{
+				["Sovamir"] = true,
+				["Covamir"] = true,
+				["Novamir"] = true,
+				["Kovamir"] = true
+			},
+			["Note"] = "",
+			["Main"] = true
+		},
+		["Sovamir"] = 
+		{
+			["Alt"] = 
+			{
+				["Covamir"] = true,
+				["Novamir"] = true,
+				["Kovamir"] = true,
+				["Xovamir"] = true
+			},
+			["Note"] = ""
+		},
+		["Covamir"] = 
+		{
+			["Alt"] = 
+			{
+				["Sovamir"] = true,
+				["Novamir"] = true,
+				["Kovamir"] = true,
+				["Xovamir"] = true
+			},
+			["Note"] = ""
+		},
+		["Novamir"] = 
+		{
+			["Alt"] = 
+			{
+				["Sovamir"] = true,
+				["Covamir"] = true,
+				["Kovamir"] = true,
+				["Xovamir"] = true
+			},
+			["Note"] = ""
+		},
+		["Kovamir"] = 
+		{
+			["Alt"] = 
+			{
+				["Sovamir"] = true,
+				["Covamir"] = true,
+				["Novamir"] = true,
+				["Xovamir"] = true
+			},
+			["Note"] = ""
 		}
 	},
 	[2.000000] = 100.000000,

@@ -1,0 +1,39 @@
+return 
+{
+	[1.000000] = 
+	{
+		["Gullofbog"] = 
+		{
+			["Alt"] = 
+			{
+				["Harmkarl"] = true,
+				["Gedodram"] = true
+			},
+			["Note"] = "",
+			["Main"] = true
+		},
+		["Gedodram"] = 
+		{
+			["Alt"] = 
+			{
+				["Gullofbog"] = true,
+				["Harmkarl"] = true
+			},
+			["Notes"] = ""
+		},
+		["Harmkarl"] = 
+		{
+			["Alt"] = 
+			{
+				["Gullofbog"] = true,
+				["Gedodram"] = true
+			},
+			["Notes"] = ""
+		}
+	},
+	[2.000000] = 100.000000,
+	[3.000000] = 100.000000,
+	[4.000000] = 700.000000,
+	[5.000000] = 300.000000,
+	[6.000000] = true
+}

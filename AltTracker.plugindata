@@ -3,283 +3,6 @@ return
 	[1.000000] = 
 	{
 		
-		["Baltars"] = 
-		{
-			["Alt"] = 
-			{
-				["Baltraz"] = true,
-				["Nafar"] = true,
-				["Donthir"] = true,
-				["Balters"] = true,
-				["Schol"] = true,
-				["Balterz"] = true,
-				["Balturs"] = true
-			},
-			["Note"] = "",
-			["Main"] = true
-		},
-		["Baltraz"] = 
-		{
-			["Alt"] = 
-			{
-				["Nafar"] = true,
-				["Donthir"] = true,
-				["Balters"] = true,
-				["Schol"] = true,
-				["Balterz"] = true,
-				["Balturs"] = true,
-				["Baltars"] = true
-			},
-			["Note"] = ""
-		},
-		["Nafar"] = 
-		{
-			["Alt"] = 
-			{
-				["Baltraz"] = true,
-				["Donthir"] = true,
-				["Balters"] = true,
-				["Schol"] = true,
-				["Balterz"] = true,
-				["Balturs"] = true,
-				["Baltars"] = true
-			},
-			["Note"] = ""
-		},
-		["Donthir"] = 
-		{
-			["Alt"] = 
-			{
-				["Baltraz"] = true,
-				["Nafar"] = true,
-				["Balters"] = true,
-				["Schol"] = true,
-				["Balterz"] = true,
-				["Balturs"] = true,
-				["Baltars"] = true
-			},
-			["Note"] = ""
-		},
-		["Balters"] = 
-		{
-			["Alt"] = 
-			{
-				["Baltraz"] = true,
-				["Nafar"] = true,
-				["Donthir"] = true,
-				["Schol"] = true,
-				["Balterz"] = true,
-				["Balturs"] = true,
-				["Baltars"] = true
-			},
-			["Note"] = ""
-		},
-		["Schol"] = 
-		{
-			["Alt"] = 
-			{
-				["Baltraz"] = true,
-				["Nafar"] = true,
-				["Donthir"] = true,
-				["Balters"] = true,
-				["Balterz"] = true,
-				["Balturs"] = true,
-				["Baltars"] = true
-			},
-			["Note"] = ""
-		},
-		["Balterz"] = 
-		{
-			["Alt"] = 
-			{
-				["Baltraz"] = true,
-				["Nafar"] = true,
-				["Donthir"] = true,
-				["Balters"] = true,
-				["Schol"] = true,
-				["Balturs"] = true,
-				["Baltars"] = true
-			},
-			["Note"] = ""
-		},
-		["Balturs"] = 
-		{
-			["Alt"] = 
-			{
-				["Baltraz"] = true,
-				["Nafar"] = true,
-				["Donthir"] = true,
-				["Balters"] = true,
-				["Schol"] = true,
-				["Balterz"] = true,
-				["Baltars"] = true
-			},
-			["Note"] = ""
-		},
-		["Braddoc"] = 
-		{
-			["Alt"] = 
-			{
-				["Hiacynthia"] = true,
-				["Newanda"] = true
-			},
-			["Note"] = "",
-			["Main"] = true
-		},
-		["Hiacynthia"] = 
-		{
-			["Alt"] = 
-			{
-				["Newanda"] = true,
-				["Braddoc"] = true
-			},
-			["Note"] = ""
-		},
-		["Newanda"] = 
-		{
-			["Alt"] = 
-			{
-				["Hiacynthia"] = true,
-				["Braddoc"] = true
-			},
-			["Note"] = ""
-		},
-		["Engwaarato"] = 
-		{
-			["Alt"] = 
-			{
-				["Engwaraato"] = true,
-				["Mafestoros"] = true,
-				["Celaldur"] = true,
-				["Engwatain"] = true,
-				["Engweorn"] = true,
-				["Engwarden"] = true,
-				["Enwaraato"] = true,
-				["Enwaarato"] = true
-			},
-			["Note"] = "",
-			["Main"] = true
-		},
-		["Engwaraato"] = 
-		{
-			["Alt"] = 
-			{
-				["Mafestoros"] = true,
-				["Celaldur"] = true,
-				["Engwatain"] = true,
-				["Engweorn"] = true,
-				["Engwarden"] = true,
-				["Enwaraato"] = true,
-				["Enwaarato"] = true,
-				["Engwaarato"] = true
-			},
-			["Note"] = ""
-		},
-		["Mafestoros"] = 
-		{
-			["Alt"] = 
-			{
-				["Engwaraato"] = true,
-				["Celaldur"] = true,
-				["Engwatain"] = true,
-				["Engweorn"] = true,
-				["Engwarden"] = true,
-				["Enwaraato"] = true,
-				["Enwaarato"] = true,
-				["Engwaarato"] = true
-			},
-			["Note"] = ""
-		},
-		["Celaldur"] = 
-		{
-			["Alt"] = 
-			{
-				["Engwaraato"] = true,
-				["Mafestoros"] = true,
-				["Engwatain"] = true,
-				["Engweorn"] = true,
-				["Engwarden"] = true,
-				["Enwaraato"] = true,
-				["Enwaarato"] = true,
-				["Engwaarato"] = true
-			},
-			["Note"] = ""
-		},
-		["Engwatain"] = 
-		{
-			["Alt"] = 
-			{
-				["Engwaraato"] = true,
-				["Mafestoros"] = true,
-				["Celaldur"] = true,
-				["Engweorn"] = true,
-				["Engwarden"] = true,
-				["Enwaraato"] = true,
-				["Enwaarato"] = true,
-				["Engwaarato"] = true
-			},
-			["Note"] = ""
-		},
-		["Engweorn"] = 
-		{
-			["Alt"] = 
-			{
-				["Engwaraato"] = true,
-				["Mafestoros"] = true,
-				["Celaldur"] = true,
-				["Engwatain"] = true,
-				["Engwarden"] = true,
-				["Enwaraato"] = true,
-				["Enwaarato"] = true,
-				["Engwaarato"] = true
-			},
-			["Note"] = ""
-		},
-		["Engwarden"] = 
-		{
-			["Alt"] = 
-			{
-				["Engwaraato"] = true,
-				["Mafestoros"] = true,
-				["Celaldur"] = true,
-				["Engwatain"] = true,
-				["Engweorn"] = true,
-				["Enwaraato"] = true,
-				["Enwaarato"] = true,
-				["Engwaarato"] = true
-			},
-			["Note"] = ""
-		},
-		["Enwaraato"] = 
-		{
-			["Alt"] = 
-			{
-				["Engwaraato"] = true,
-				["Mafestoros"] = true,
-				["Celaldur"] = true,
-				["Engwatain"] = true,
-				["Engweorn"] = true,
-				["Engwarden"] = true,
-				["Enwaarato"] = true,
-				["Engwaarato"] = true
-			},
-			["Note"] = ""
-		},
-		["Enwaarato"] = 
-		{
-			["Alt"] = 
-			{
-				["Engwaraato"] = true,
-				["Mafestoros"] = true,
-				["Celaldur"] = true,
-				["Engwatain"] = true,
-				["Engweorn"] = true,
-				["Engwarden"] = true,
-				["Enwaraato"] = true,
-				["Engwaarato"] = true
-			},
-			["Note"] = ""
-		},
 		["Gullofbog"] = 
 		{
 			["Alt"] = 
@@ -308,919 +31,1136 @@ return
 			},
 			["Note"] = ""
 		},
-		["Kalrod"] = 
+		["Timitost"] = 
 		{
 			["Alt"] = 
 			{
-				["Kalg"] = true,
-				["Kaldro"] = true,
-				["Kalbear"] = true,
-				["Kallorin"] = true
+				["Tardian"] = true,
+				["Legobrik"] = true,
+				["Ultran"] = true,
+				["Tammitost"] = true,
+				["Timinor"] = true,
+				["Timithorn"] = true,
+				["Timimini"] = true,
+				["Timiward"] = true,
+				["Timicap"] = true,
+				["Timiburg"] = true,
+				["Timiskald"] = true,
+				["Tsathogua"] = true,
+				["Tarmonthir"] = true,
+				["Timibur"] = true,
+				["Timistor"] = true
 			},
 			["Note"] = "",
 			["Main"] = true
 		},
-		["Kalg"] = 
+		["Tardian"] = 
 		{
 			["Alt"] = 
 			{
-				["Kaldro"] = true,
-				["Kalbear"] = true,
-				["Kallorin"] = true,
-				["Kalrod"] = true
+				["Legobrik"] = true,
+				["Ultran"] = true,
+				["Tammitost"] = true,
+				["Timinor"] = true,
+				["Timithorn"] = true,
+				["Timimini"] = true,
+				["Timiward"] = true,
+				["Timicap"] = true,
+				["Timiburg"] = true,
+				["Timiskald"] = true,
+				["Tsathogua"] = true,
+				["Tarmonthir"] = true,
+				["Timibur"] = true,
+				["Timistor"] = true,
+				["Timitost"] = true
 			},
 			["Note"] = ""
 		},
-		["Kaldro"] = 
+		["Legobrik"] = 
 		{
 			["Alt"] = 
 			{
-				["Kalg"] = true,
-				["Kalbear"] = true,
-				["Kallorin"] = true,
-				["Kalrod"] = true
+				["Tardian"] = true,
+				["Ultran"] = true,
+				["Tammitost"] = true,
+				["Timinor"] = true,
+				["Timithorn"] = true,
+				["Timimini"] = true,
+				["Timiward"] = true,
+				["Timicap"] = true,
+				["Timiburg"] = true,
+				["Timiskald"] = true,
+				["Tsathogua"] = true,
+				["Tarmonthir"] = true,
+				["Timibur"] = true,
+				["Timistor"] = true,
+				["Timitost"] = true
 			},
 			["Note"] = ""
 		},
-		["Kalbear"] = 
+		["Ultran"] = 
 		{
 			["Alt"] = 
 			{
-				["Kalg"] = true,
-				["Kaldro"] = true,
-				["Kallorin"] = true,
-				["Kalrod"] = true
+				["Tardian"] = true,
+				["Legobrik"] = true,
+				["Tammitost"] = true,
+				["Timinor"] = true,
+				["Timithorn"] = true,
+				["Timimini"] = true,
+				["Timiward"] = true,
+				["Timicap"] = true,
+				["Timiburg"] = true,
+				["Timiskald"] = true,
+				["Tsathogua"] = true,
+				["Tarmonthir"] = true,
+				["Timibur"] = true,
+				["Timistor"] = true,
+				["Timitost"] = true
 			},
 			["Note"] = ""
 		},
-		["Kallorin"] = 
+		["Tammitost"] = 
 		{
 			["Alt"] = 
 			{
-				["Kalg"] = true,
-				["Kaldro"] = true,
-				["Kalbear"] = true,
-				["Kalrod"] = true
+				["Tardian"] = true,
+				["Legobrik"] = true,
+				["Ultran"] = true,
+				["Timinor"] = true,
+				["Timithorn"] = true,
+				["Timimini"] = true,
+				["Timiward"] = true,
+				["Timicap"] = true,
+				["Timiburg"] = true,
+				["Timiskald"] = true,
+				["Tsathogua"] = true,
+				["Tarmonthir"] = true,
+				["Timibur"] = true,
+				["Timistor"] = true,
+				["Timitost"] = true
 			},
 			["Note"] = ""
 		},
-		["Longwing"] = 
+		["Timinor"] = 
 		{
 			["Alt"] = 
 			{
-				["Zondar"] = true,
-				["Flagherty"] = true,
-				["Flanegan"] = true,
-				["Cacofonix"] = true,
-				["Roonix"] = true,
-				["Mcvay"] = true,
-				["Geriatrix"] = true
+				["Tardian"] = true,
+				["Legobrik"] = true,
+				["Ultran"] = true,
+				["Tammitost"] = true,
+				["Timithorn"] = true,
+				["Timimini"] = true,
+				["Timiward"] = true,
+				["Timicap"] = true,
+				["Timiburg"] = true,
+				["Timiskald"] = true,
+				["Tsathogua"] = true,
+				["Tarmonthir"] = true,
+				["Timibur"] = true,
+				["Timistor"] = true,
+				["Timitost"] = true
+			},
+			["Note"] = ""
+		},
+		["Timithorn"] = 
+		{
+			["Alt"] = 
+			{
+				["Tardian"] = true,
+				["Legobrik"] = true,
+				["Ultran"] = true,
+				["Tammitost"] = true,
+				["Timinor"] = true,
+				["Timimini"] = true,
+				["Timiward"] = true,
+				["Timicap"] = true,
+				["Timiburg"] = true,
+				["Timiskald"] = true,
+				["Tsathogua"] = true,
+				["Tarmonthir"] = true,
+				["Timibur"] = true,
+				["Timistor"] = true,
+				["Timitost"] = true
+			},
+			["Note"] = ""
+		},
+		["Timimini"] = 
+		{
+			["Alt"] = 
+			{
+				["Tardian"] = true,
+				["Legobrik"] = true,
+				["Ultran"] = true,
+				["Tammitost"] = true,
+				["Timinor"] = true,
+				["Timithorn"] = true,
+				["Timiward"] = true,
+				["Timicap"] = true,
+				["Timiburg"] = true,
+				["Timiskald"] = true,
+				["Tsathogua"] = true,
+				["Tarmonthir"] = true,
+				["Timibur"] = true,
+				["Timistor"] = true,
+				["Timitost"] = true
+			},
+			["Note"] = ""
+		},
+		["Timiward"] = 
+		{
+			["Alt"] = 
+			{
+				["Tardian"] = true,
+				["Legobrik"] = true,
+				["Ultran"] = true,
+				["Tammitost"] = true,
+				["Timinor"] = true,
+				["Timithorn"] = true,
+				["Timimini"] = true,
+				["Timicap"] = true,
+				["Timiburg"] = true,
+				["Timiskald"] = true,
+				["Tsathogua"] = true,
+				["Tarmonthir"] = true,
+				["Timibur"] = true,
+				["Timistor"] = true,
+				["Timitost"] = true
+			},
+			["Note"] = ""
+		},
+		["Timicap"] = 
+		{
+			["Alt"] = 
+			{
+				["Tardian"] = true,
+				["Legobrik"] = true,
+				["Ultran"] = true,
+				["Tammitost"] = true,
+				["Timinor"] = true,
+				["Timithorn"] = true,
+				["Timimini"] = true,
+				["Timiward"] = true,
+				["Timiburg"] = true,
+				["Timiskald"] = true,
+				["Tsathogua"] = true,
+				["Tarmonthir"] = true,
+				["Timibur"] = true,
+				["Timistor"] = true,
+				["Timitost"] = true
+			},
+			["Note"] = ""
+		},
+		["Timiburg"] = 
+		{
+			["Alt"] = 
+			{
+				["Tardian"] = true,
+				["Legobrik"] = true,
+				["Ultran"] = true,
+				["Tammitost"] = true,
+				["Timinor"] = true,
+				["Timithorn"] = true,
+				["Timimini"] = true,
+				["Timiward"] = true,
+				["Timicap"] = true,
+				["Timiskald"] = true,
+				["Tsathogua"] = true,
+				["Tarmonthir"] = true,
+				["Timibur"] = true,
+				["Timistor"] = true,
+				["Timitost"] = true
+			},
+			["Note"] = ""
+		},
+		["Timiskald"] = 
+		{
+			["Alt"] = 
+			{
+				["Tardian"] = true,
+				["Legobrik"] = true,
+				["Ultran"] = true,
+				["Tammitost"] = true,
+				["Timinor"] = true,
+				["Timithorn"] = true,
+				["Timimini"] = true,
+				["Timiward"] = true,
+				["Timicap"] = true,
+				["Timiburg"] = true,
+				["Tsathogua"] = true,
+				["Tarmonthir"] = true,
+				["Timibur"] = true,
+				["Timistor"] = true,
+				["Timitost"] = true
+			},
+			["Note"] = ""
+		},
+		["Tsathogua"] = 
+		{
+			["Alt"] = 
+			{
+				["Tardian"] = true,
+				["Legobrik"] = true,
+				["Ultran"] = true,
+				["Tammitost"] = true,
+				["Timinor"] = true,
+				["Timithorn"] = true,
+				["Timimini"] = true,
+				["Timiward"] = true,
+				["Timicap"] = true,
+				["Timiburg"] = true,
+				["Timiskald"] = true,
+				["Tarmonthir"] = true,
+				["Timibur"] = true,
+				["Timistor"] = true,
+				["Timitost"] = true
+			},
+			["Note"] = ""
+		},
+		["Tarmonthir"] = 
+		{
+			["Alt"] = 
+			{
+				["Tardian"] = true,
+				["Legobrik"] = true,
+				["Ultran"] = true,
+				["Tammitost"] = true,
+				["Timinor"] = true,
+				["Timithorn"] = true,
+				["Timimini"] = true,
+				["Timiward"] = true,
+				["Timicap"] = true,
+				["Timiburg"] = true,
+				["Timiskald"] = true,
+				["Tsathogua"] = true,
+				["Timibur"] = true,
+				["Timistor"] = true,
+				["Timitost"] = true
+			},
+			["Note"] = ""
+		},
+		["Timibur"] = 
+		{
+			["Alt"] = 
+			{
+				["Tardian"] = true,
+				["Legobrik"] = true,
+				["Ultran"] = true,
+				["Tammitost"] = true,
+				["Timinor"] = true,
+				["Timithorn"] = true,
+				["Timimini"] = true,
+				["Timiward"] = true,
+				["Timicap"] = true,
+				["Timiburg"] = true,
+				["Timiskald"] = true,
+				["Tsathogua"] = true,
+				["Tarmonthir"] = true,
+				["Timistor"] = true,
+				["Timitost"] = true
+			},
+			["Note"] = ""
+		},
+		["Timistor"] = 
+		{
+			["Alt"] = 
+			{
+				["Tardian"] = true,
+				["Legobrik"] = true,
+				["Ultran"] = true,
+				["Tammitost"] = true,
+				["Timinor"] = true,
+				["Timithorn"] = true,
+				["Timimini"] = true,
+				["Timiward"] = true,
+				["Timicap"] = true,
+				["Timiburg"] = true,
+				["Timiskald"] = true,
+				["Tsathogua"] = true,
+				["Tarmonthir"] = true,
+				["Timibur"] = true,
+				["Timitost"] = true
+			},
+			["Note"] = ""
+		},
+		["Engwaarato"] = 
+		{
+			["Alt"] = 
+			{
+				["Engwaraato"] = true,
+				["Mafestoros"] = true,
+				["Engwatain"] = true,
+				["Enwaraato"] = true,
+				["Enwaarato"] = true,
+				["Celaldur"] = true,
+				["Englohad"] = true,
+				["Engweorn"] = true
 			},
 			["Note"] = "",
 			["Main"] = true
 		},
-		["Zondar"] = 
+		["Engwaraato"] = 
 		{
 			["Alt"] = 
 			{
-				["Flagherty"] = true,
-				["Flanegan"] = true,
-				["Cacofonix"] = true,
-				["Roonix"] = true,
-				["Mcvay"] = true,
-				["Geriatrix"] = true,
-				["Longwing"] = true
+				["Mafestoros"] = true,
+				["Engwatain"] = true,
+				["Enwaraato"] = true,
+				["Enwaarato"] = true,
+				["Celaldur"] = true,
+				["Englohad"] = true,
+				["Engweorn"] = true,
+				["Engwaarato"] = true
 			},
 			["Note"] = ""
 		},
-		["Flagherty"] = 
+		["Mafestoros"] = 
 		{
 			["Alt"] = 
 			{
-				["Zondar"] = true,
-				["Flanegan"] = true,
-				["Cacofonix"] = true,
-				["Roonix"] = true,
-				["Mcvay"] = true,
-				["Geriatrix"] = true,
-				["Longwing"] = true
+				["Engwaraato"] = true,
+				["Engwatain"] = true,
+				["Enwaraato"] = true,
+				["Enwaarato"] = true,
+				["Celaldur"] = true,
+				["Englohad"] = true,
+				["Engweorn"] = true,
+				["Engwaarato"] = true
 			},
 			["Note"] = ""
 		},
-		["Flanegan"] = 
+		["Engwatain"] = 
 		{
 			["Alt"] = 
 			{
-				["Zondar"] = true,
-				["Flagherty"] = true,
-				["Cacofonix"] = true,
-				["Roonix"] = true,
-				["Mcvay"] = true,
-				["Geriatrix"] = true,
-				["Longwing"] = true
+				["Engwaraato"] = true,
+				["Mafestoros"] = true,
+				["Enwaraato"] = true,
+				["Enwaarato"] = true,
+				["Celaldur"] = true,
+				["Englohad"] = true,
+				["Engweorn"] = true,
+				["Engwaarato"] = true
 			},
 			["Note"] = ""
 		},
-		["Cacofonix"] = 
+		["Enwaraato"] = 
 		{
 			["Alt"] = 
 			{
-				["Zondar"] = true,
-				["Flagherty"] = true,
-				["Flanegan"] = true,
-				["Roonix"] = true,
-				["Mcvay"] = true,
-				["Geriatrix"] = true,
-				["Longwing"] = true
+				["Engwaraato"] = true,
+				["Mafestoros"] = true,
+				["Engwatain"] = true,
+				["Enwaarato"] = true,
+				["Celaldur"] = true,
+				["Englohad"] = true,
+				["Engweorn"] = true,
+				["Engwaarato"] = true
 			},
 			["Note"] = ""
 		},
-		["Roonix"] = 
+		["Enwaarato"] = 
 		{
 			["Alt"] = 
 			{
-				["Zondar"] = true,
-				["Flagherty"] = true,
-				["Flanegan"] = true,
-				["Cacofonix"] = true,
-				["Mcvay"] = true,
-				["Geriatrix"] = true,
-				["Longwing"] = true
+				["Engwaraato"] = true,
+				["Mafestoros"] = true,
+				["Engwatain"] = true,
+				["Enwaraato"] = true,
+				["Celaldur"] = true,
+				["Englohad"] = true,
+				["Engweorn"] = true,
+				["Engwaarato"] = true
 			},
 			["Note"] = ""
 		},
-		["Mcvay"] = 
+		["Celaldur"] = 
 		{
 			["Alt"] = 
 			{
-				["Zondar"] = true,
-				["Flagherty"] = true,
-				["Flanegan"] = true,
-				["Cacofonix"] = true,
-				["Roonix"] = true,
-				["Geriatrix"] = true,
-				["Longwing"] = true
+				["Engwaraato"] = true,
+				["Mafestoros"] = true,
+				["Engwatain"] = true,
+				["Enwaraato"] = true,
+				["Enwaarato"] = true,
+				["Englohad"] = true,
+				["Engweorn"] = true,
+				["Engwaarato"] = true
 			},
 			["Note"] = ""
 		},
-		["Geriatrix"] = 
+		["Englohad"] = 
 		{
 			["Alt"] = 
 			{
-				["Zondar"] = true,
-				["Flagherty"] = true,
-				["Flanegan"] = true,
-				["Cacofonix"] = true,
-				["Roonix"] = true,
-				["Mcvay"] = true,
-				["Longwing"] = true
+				["Engwaraato"] = true,
+				["Mafestoros"] = true,
+				["Engwatain"] = true,
+				["Enwaraato"] = true,
+				["Enwaarato"] = true,
+				["Celaldur"] = true,
+				["Engweorn"] = true,
+				["Engwaarato"] = true
 			},
 			["Note"] = ""
 		},
-		["Osrif"] = 
+		["Engweorn"] = 
 		{
 			["Alt"] = 
 			{
-				["Alysandalas"] = true,
-				["Dutchess"] = true,
-				["Aakraman"] = true,
-				["Azariele"] = true,
-				["Dharin"] = true,
-				["Gammi"] = true,
-				["Gurmunder"] = true,
-				["Hanistra"] = true,
-				["Kiatara"] = true,
-				["Rebus"] = true,
-				["Robinhoody"] = true,
-				["Sangoma"] = true,
-				["Tarben"] = true,
-				["Turpin"] = true,
-				["Ukkonen"] = true,
-				["Ursini"] = true,
-				["Varosi"] = true,
-				["Ysetta"] = true,
-				["Zyana"] = true,
-				["Zyggclotheshorse"] = true
+				["Engwaraato"] = true,
+				["Mafestoros"] = true,
+				["Engwatain"] = true,
+				["Enwaraato"] = true,
+				["Enwaarato"] = true,
+				["Celaldur"] = true,
+				["Englohad"] = true,
+				["Engwaarato"] = true
+			},
+			["Note"] = ""
+		},
+		["Kaylia"] = 
+		{
+			["Alt"] = 
+			{
+				["Kaymoth"] = true,
+				["Kaylea"] = true,
+				["Kaylind"] = true,
+				["Kaylith"] = true,
+				["Kaymend"] = true,
+				["Kayras"] = true,
+				["Kayt"] = true,
+				["Kaywing"] = true,
+				["Kaywis"] = true,
+				["Kaywulf"] = true
 			},
 			["Note"] = "",
 			["Main"] = true
 		},
-		["Alysandalas"] = 
+		["Kaymoth"] = 
 		{
 			["Alt"] = 
 			{
-				["Dutchess"] = true,
-				["Aakraman"] = true,
-				["Azariele"] = true,
-				["Dharin"] = true,
-				["Gammi"] = true,
-				["Gurmunder"] = true,
-				["Hanistra"] = true,
-				["Kiatara"] = true,
-				["Rebus"] = true,
-				["Robinhoody"] = true,
-				["Sangoma"] = true,
-				["Tarben"] = true,
-				["Turpin"] = true,
-				["Ukkonen"] = true,
-				["Ursini"] = true,
-				["Varosi"] = true,
-				["Ysetta"] = true,
-				["Zyana"] = true,
-				["Zyggclotheshorse"] = true,
-				["Osrif"] = true
+				["Kaylea"] = true,
+				["Kaylind"] = true,
+				["Kaylith"] = true,
+				["Kaymend"] = true,
+				["Kayras"] = true,
+				["Kayt"] = true,
+				["Kaywing"] = true,
+				["Kaywis"] = true,
+				["Kaywulf"] = true,
+				["Kaylia"] = true
 			},
 			["Note"] = ""
 		},
-		["Dutchess"] = 
+		["Kaylea"] = 
 		{
 			["Alt"] = 
 			{
-				["Alysandalas"] = true,
-				["Aakraman"] = true,
-				["Azariele"] = true,
-				["Dharin"] = true,
-				["Gammi"] = true,
-				["Gurmunder"] = true,
-				["Hanistra"] = true,
-				["Kiatara"] = true,
-				["Rebus"] = true,
-				["Robinhoody"] = true,
-				["Sangoma"] = true,
-				["Tarben"] = true,
-				["Turpin"] = true,
-				["Ukkonen"] = true,
-				["Ursini"] = true,
-				["Varosi"] = true,
-				["Ysetta"] = true,
-				["Zyana"] = true,
-				["Zyggclotheshorse"] = true,
-				["Osrif"] = true
+				["Kaymoth"] = true,
+				["Kaylind"] = true,
+				["Kaylith"] = true,
+				["Kaymend"] = true,
+				["Kayras"] = true,
+				["Kayt"] = true,
+				["Kaywing"] = true,
+				["Kaywis"] = true,
+				["Kaywulf"] = true,
+				["Kaylia"] = true
 			},
 			["Note"] = ""
 		},
-		["Aakraman"] = 
+		["Kaylind"] = 
 		{
 			["Alt"] = 
 			{
-				["Alysandalas"] = true,
-				["Dutchess"] = true,
-				["Azariele"] = true,
-				["Dharin"] = true,
-				["Gammi"] = true,
-				["Gurmunder"] = true,
-				["Hanistra"] = true,
-				["Kiatara"] = true,
-				["Rebus"] = true,
-				["Robinhoody"] = true,
-				["Sangoma"] = true,
-				["Tarben"] = true,
-				["Turpin"] = true,
-				["Ukkonen"] = true,
-				["Ursini"] = true,
-				["Varosi"] = true,
-				["Ysetta"] = true,
-				["Zyana"] = true,
-				["Zyggclotheshorse"] = true,
-				["Osrif"] = true
+				["Kaymoth"] = true,
+				["Kaylea"] = true,
+				["Kaylith"] = true,
+				["Kaymend"] = true,
+				["Kayras"] = true,
+				["Kayt"] = true,
+				["Kaywing"] = true,
+				["Kaywis"] = true,
+				["Kaywulf"] = true,
+				["Kaylia"] = true
 			},
 			["Note"] = ""
 		},
-		["Azariele"] = 
+		["Kaylith"] = 
 		{
 			["Alt"] = 
 			{
-				["Alysandalas"] = true,
-				["Dutchess"] = true,
-				["Aakraman"] = true,
-				["Dharin"] = true,
-				["Gammi"] = true,
-				["Gurmunder"] = true,
-				["Hanistra"] = true,
-				["Kiatara"] = true,
-				["Rebus"] = true,
-				["Robinhoody"] = true,
-				["Sangoma"] = true,
-				["Tarben"] = true,
-				["Turpin"] = true,
-				["Ukkonen"] = true,
-				["Ursini"] = true,
-				["Varosi"] = true,
-				["Ysetta"] = true,
-				["Zyana"] = true,
-				["Zyggclotheshorse"] = true,
-				["Osrif"] = true
+				["Kaymoth"] = true,
+				["Kaylea"] = true,
+				["Kaylind"] = true,
+				["Kaymend"] = true,
+				["Kayras"] = true,
+				["Kayt"] = true,
+				["Kaywing"] = true,
+				["Kaywis"] = true,
+				["Kaywulf"] = true,
+				["Kaylia"] = true
 			},
 			["Note"] = ""
 		},
-		["Dharin"] = 
+		["Kaymend"] = 
 		{
 			["Alt"] = 
 			{
-				["Alysandalas"] = true,
-				["Dutchess"] = true,
-				["Aakraman"] = true,
-				["Azariele"] = true,
-				["Gammi"] = true,
-				["Gurmunder"] = true,
-				["Hanistra"] = true,
-				["Kiatara"] = true,
-				["Rebus"] = true,
-				["Robinhoody"] = true,
-				["Sangoma"] = true,
-				["Tarben"] = true,
-				["Turpin"] = true,
-				["Ukkonen"] = true,
-				["Ursini"] = true,
-				["Varosi"] = true,
-				["Ysetta"] = true,
-				["Zyana"] = true,
-				["Zyggclotheshorse"] = true,
-				["Osrif"] = true
+				["Kaymoth"] = true,
+				["Kaylea"] = true,
+				["Kaylind"] = true,
+				["Kaylith"] = true,
+				["Kayras"] = true,
+				["Kayt"] = true,
+				["Kaywing"] = true,
+				["Kaywis"] = true,
+				["Kaywulf"] = true,
+				["Kaylia"] = true
 			},
 			["Note"] = ""
 		},
-		["Gammi"] = 
+		["Kayras"] = 
 		{
 			["Alt"] = 
 			{
-				["Alysandalas"] = true,
-				["Dutchess"] = true,
-				["Aakraman"] = true,
-				["Azariele"] = true,
-				["Dharin"] = true,
-				["Gurmunder"] = true,
-				["Hanistra"] = true,
-				["Kiatara"] = true,
-				["Rebus"] = true,
-				["Robinhoody"] = true,
-				["Sangoma"] = true,
-				["Tarben"] = true,
-				["Turpin"] = true,
-				["Ukkonen"] = true,
-				["Ursini"] = true,
-				["Varosi"] = true,
-				["Ysetta"] = true,
-				["Zyana"] = true,
-				["Zyggclotheshorse"] = true,
-				["Osrif"] = true
+				["Kaymoth"] = true,
+				["Kaylea"] = true,
+				["Kaylind"] = true,
+				["Kaylith"] = true,
+				["Kaymend"] = true,
+				["Kayt"] = true,
+				["Kaywing"] = true,
+				["Kaywis"] = true,
+				["Kaywulf"] = true,
+				["Kaylia"] = true
 			},
 			["Note"] = ""
 		},
-		["Gurmunder"] = 
+		["Kayt"] = 
 		{
 			["Alt"] = 
 			{
-				["Alysandalas"] = true,
-				["Dutchess"] = true,
-				["Aakraman"] = true,
-				["Azariele"] = true,
-				["Dharin"] = true,
-				["Gammi"] = true,
-				["Hanistra"] = true,
-				["Kiatara"] = true,
-				["Rebus"] = true,
-				["Robinhoody"] = true,
-				["Sangoma"] = true,
-				["Tarben"] = true,
-				["Turpin"] = true,
-				["Ukkonen"] = true,
-				["Ursini"] = true,
-				["Varosi"] = true,
-				["Ysetta"] = true,
-				["Zyana"] = true,
-				["Zyggclotheshorse"] = true,
-				["Osrif"] = true
+				["Kaymoth"] = true,
+				["Kaylea"] = true,
+				["Kaylind"] = true,
+				["Kaylith"] = true,
+				["Kaymend"] = true,
+				["Kayras"] = true,
+				["Kaywing"] = true,
+				["Kaywis"] = true,
+				["Kaywulf"] = true,
+				["Kaylia"] = true
 			},
 			["Note"] = ""
 		},
-		["Hanistra"] = 
+		["Kaywing"] = 
 		{
 			["Alt"] = 
 			{
-				["Alysandalas"] = true,
-				["Dutchess"] = true,
-				["Aakraman"] = true,
-				["Azariele"] = true,
-				["Dharin"] = true,
-				["Gammi"] = true,
-				["Gurmunder"] = true,
-				["Kiatara"] = true,
-				["Rebus"] = true,
-				["Robinhoody"] = true,
-				["Sangoma"] = true,
-				["Tarben"] = true,
-				["Turpin"] = true,
-				["Ukkonen"] = true,
-				["Ursini"] = true,
-				["Varosi"] = true,
-				["Ysetta"] = true,
-				["Zyana"] = true,
-				["Zyggclotheshorse"] = true,
-				["Osrif"] = true
+				["Kaymoth"] = true,
+				["Kaylea"] = true,
+				["Kaylind"] = true,
+				["Kaylith"] = true,
+				["Kaymend"] = true,
+				["Kayras"] = true,
+				["Kayt"] = true,
+				["Kaywis"] = true,
+				["Kaywulf"] = true,
+				["Kaylia"] = true
 			},
 			["Note"] = ""
 		},
-		["Kiatara"] = 
+		["Kaywis"] = 
 		{
 			["Alt"] = 
 			{
-				["Alysandalas"] = true,
-				["Dutchess"] = true,
-				["Aakraman"] = true,
-				["Azariele"] = true,
-				["Dharin"] = true,
-				["Gammi"] = true,
-				["Gurmunder"] = true,
-				["Hanistra"] = true,
-				["Rebus"] = true,
-				["Robinhoody"] = true,
-				["Sangoma"] = true,
-				["Tarben"] = true,
-				["Turpin"] = true,
-				["Ukkonen"] = true,
-				["Ursini"] = true,
-				["Varosi"] = true,
-				["Ysetta"] = true,
-				["Zyana"] = true,
-				["Zyggclotheshorse"] = true,
-				["Osrif"] = true
+				["Kaymoth"] = true,
+				["Kaylea"] = true,
+				["Kaylind"] = true,
+				["Kaylith"] = true,
+				["Kaymend"] = true,
+				["Kayras"] = true,
+				["Kayt"] = true,
+				["Kaywing"] = true,
+				["Kaywulf"] = true,
+				["Kaylia"] = true
 			},
 			["Note"] = ""
 		},
-		["Rebus"] = 
+		["Kaywulf"] = 
 		{
 			["Alt"] = 
 			{
-				["Alysandalas"] = true,
-				["Dutchess"] = true,
-				["Aakraman"] = true,
-				["Azariele"] = true,
-				["Dharin"] = true,
-				["Gammi"] = true,
-				["Gurmunder"] = true,
-				["Hanistra"] = true,
-				["Kiatara"] = true,
-				["Robinhoody"] = true,
-				["Sangoma"] = true,
-				["Tarben"] = true,
-				["Turpin"] = true,
-				["Ukkonen"] = true,
-				["Ursini"] = true,
-				["Varosi"] = true,
-				["Ysetta"] = true,
-				["Zyana"] = true,
-				["Zyggclotheshorse"] = true,
-				["Osrif"] = true
+				["Kaymoth"] = true,
+				["Kaylea"] = true,
+				["Kaylind"] = true,
+				["Kaylith"] = true,
+				["Kaymend"] = true,
+				["Kayras"] = true,
+				["Kayt"] = true,
+				["Kaywing"] = true,
+				["Kaywis"] = true,
+				["Kaylia"] = true
 			},
 			["Note"] = ""
 		},
-		["Robinhoody"] = 
+		["Rawey"] = 
 		{
 			["Alt"] = 
 			{
-				["Alysandalas"] = true,
-				["Dutchess"] = true,
-				["Aakraman"] = true,
-				["Azariele"] = true,
-				["Dharin"] = true,
-				["Gammi"] = true,
-				["Gurmunder"] = true,
-				["Hanistra"] = true,
-				["Kiatara"] = true,
-				["Rebus"] = true,
-				["Sangoma"] = true,
-				["Tarben"] = true,
-				["Turpin"] = true,
-				["Ukkonen"] = true,
-				["Ursini"] = true,
-				["Varosi"] = true,
-				["Ysetta"] = true,
-				["Zyana"] = true,
-				["Zyggclotheshorse"] = true,
-				["Osrif"] = true
-			},
-			["Note"] = ""
-		},
-		["Sangoma"] = 
-		{
-			["Alt"] = 
-			{
-				["Alysandalas"] = true,
-				["Dutchess"] = true,
-				["Aakraman"] = true,
-				["Azariele"] = true,
-				["Dharin"] = true,
-				["Gammi"] = true,
-				["Gurmunder"] = true,
-				["Hanistra"] = true,
-				["Kiatara"] = true,
-				["Rebus"] = true,
-				["Robinhoody"] = true,
-				["Tarben"] = true,
-				["Turpin"] = true,
-				["Ukkonen"] = true,
-				["Ursini"] = true,
-				["Varosi"] = true,
-				["Ysetta"] = true,
-				["Zyana"] = true,
-				["Zyggclotheshorse"] = true,
-				["Osrif"] = true
-			},
-			["Note"] = ""
-		},
-		["Tarben"] = 
-		{
-			["Alt"] = 
-			{
-				["Alysandalas"] = true,
-				["Dutchess"] = true,
-				["Aakraman"] = true,
-				["Azariele"] = true,
-				["Dharin"] = true,
-				["Gammi"] = true,
-				["Gurmunder"] = true,
-				["Hanistra"] = true,
-				["Kiatara"] = true,
-				["Rebus"] = true,
-				["Robinhoody"] = true,
-				["Sangoma"] = true,
-				["Turpin"] = true,
-				["Ukkonen"] = true,
-				["Ursini"] = true,
-				["Varosi"] = true,
-				["Ysetta"] = true,
-				["Zyana"] = true,
-				["Zyggclotheshorse"] = true,
-				["Osrif"] = true
-			},
-			["Note"] = ""
-		},
-		["Turpin"] = 
-		{
-			["Alt"] = 
-			{
-				["Alysandalas"] = true,
-				["Dutchess"] = true,
-				["Aakraman"] = true,
-				["Azariele"] = true,
-				["Dharin"] = true,
-				["Gammi"] = true,
-				["Gurmunder"] = true,
-				["Hanistra"] = true,
-				["Kiatara"] = true,
-				["Rebus"] = true,
-				["Robinhoody"] = true,
-				["Sangoma"] = true,
-				["Tarben"] = true,
-				["Ukkonen"] = true,
-				["Ursini"] = true,
-				["Varosi"] = true,
-				["Ysetta"] = true,
-				["Zyana"] = true,
-				["Zyggclotheshorse"] = true,
-				["Osrif"] = true
-			},
-			["Note"] = ""
-		},
-		["Ukkonen"] = 
-		{
-			["Alt"] = 
-			{
-				["Alysandalas"] = true,
-				["Dutchess"] = true,
-				["Aakraman"] = true,
-				["Azariele"] = true,
-				["Dharin"] = true,
-				["Gammi"] = true,
-				["Gurmunder"] = true,
-				["Hanistra"] = true,
-				["Kiatara"] = true,
-				["Rebus"] = true,
-				["Robinhoody"] = true,
-				["Sangoma"] = true,
-				["Tarben"] = true,
-				["Turpin"] = true,
-				["Ursini"] = true,
-				["Varosi"] = true,
-				["Ysetta"] = true,
-				["Zyana"] = true,
-				["Zyggclotheshorse"] = true,
-				["Osrif"] = true
-			},
-			["Note"] = ""
-		},
-		["Ursini"] = 
-		{
-			["Alt"] = 
-			{
-				["Alysandalas"] = true,
-				["Dutchess"] = true,
-				["Aakraman"] = true,
-				["Azariele"] = true,
-				["Dharin"] = true,
-				["Gammi"] = true,
-				["Gurmunder"] = true,
-				["Hanistra"] = true,
-				["Kiatara"] = true,
-				["Rebus"] = true,
-				["Robinhoody"] = true,
-				["Sangoma"] = true,
-				["Tarben"] = true,
-				["Turpin"] = true,
-				["Ukkonen"] = true,
-				["Varosi"] = true,
-				["Ysetta"] = true,
-				["Zyana"] = true,
-				["Zyggclotheshorse"] = true,
-				["Osrif"] = true
-			},
-			["Note"] = ""
-		},
-		["Varosi"] = 
-		{
-			["Alt"] = 
-			{
-				["Alysandalas"] = true,
-				["Dutchess"] = true,
-				["Aakraman"] = true,
-				["Azariele"] = true,
-				["Dharin"] = true,
-				["Gammi"] = true,
-				["Gurmunder"] = true,
-				["Hanistra"] = true,
-				["Kiatara"] = true,
-				["Rebus"] = true,
-				["Robinhoody"] = true,
-				["Sangoma"] = true,
-				["Tarben"] = true,
-				["Turpin"] = true,
-				["Ukkonen"] = true,
-				["Ursini"] = true,
-				["Ysetta"] = true,
-				["Zyana"] = true,
-				["Zyggclotheshorse"] = true,
-				["Osrif"] = true
-			},
-			["Note"] = ""
-		},
-		["Ysetta"] = 
-		{
-			["Alt"] = 
-			{
-				["Alysandalas"] = true,
-				["Dutchess"] = true,
-				["Aakraman"] = true,
-				["Azariele"] = true,
-				["Dharin"] = true,
-				["Gammi"] = true,
-				["Gurmunder"] = true,
-				["Hanistra"] = true,
-				["Kiatara"] = true,
-				["Rebus"] = true,
-				["Robinhoody"] = true,
-				["Sangoma"] = true,
-				["Tarben"] = true,
-				["Turpin"] = true,
-				["Ukkonen"] = true,
-				["Ursini"] = true,
-				["Varosi"] = true,
-				["Zyana"] = true,
-				["Zyggclotheshorse"] = true,
-				["Osrif"] = true
-			},
-			["Note"] = ""
-		},
-		["Zyana"] = 
-		{
-			["Alt"] = 
-			{
-				["Alysandalas"] = true,
-				["Dutchess"] = true,
-				["Aakraman"] = true,
-				["Azariele"] = true,
-				["Dharin"] = true,
-				["Gammi"] = true,
-				["Gurmunder"] = true,
-				["Hanistra"] = true,
-				["Kiatara"] = true,
-				["Rebus"] = true,
-				["Robinhoody"] = true,
-				["Sangoma"] = true,
-				["Tarben"] = true,
-				["Turpin"] = true,
-				["Ukkonen"] = true,
-				["Ursini"] = true,
-				["Varosi"] = true,
-				["Ysetta"] = true,
-				["Zyggclotheshorse"] = true,
-				["Osrif"] = true
-			},
-			["Note"] = ""
-		},
-		["Zyggclotheshorse"] = 
-		{
-			["Alt"] = 
-			{
-				["Alysandalas"] = true,
-				["Dutchess"] = true,
-				["Aakraman"] = true,
-				["Azariele"] = true,
-				["Dharin"] = true,
-				["Gammi"] = true,
-				["Gurmunder"] = true,
-				["Hanistra"] = true,
-				["Kiatara"] = true,
-				["Rebus"] = true,
-				["Robinhoody"] = true,
-				["Sangoma"] = true,
-				["Tarben"] = true,
-				["Turpin"] = true,
-				["Ukkonen"] = true,
-				["Ursini"] = true,
-				["Varosi"] = true,
-				["Ysetta"] = true,
-				["Zyana"] = true,
-				["Osrif"] = true
-			},
-			["Note"] = ""
-		},
-		["Qanuk"] = 
-		{
-			["Alt"] = 
-			{
-				["Kasiopeia"] = true,
-				["Vesla"] = true,
-				["Fullfres"] = true,
-				["Clarisse"] = true,
-				["Hardvit"] = true,
-				["Missmoneypenny"] = true
+				["Raweys"] = true,
+				["Raweyz"] = true,
+				["Raweyn "] = true,
+				["Raweyl"] = true,
+				["Rowey "] = true,
+				["Rawladriel"] = true
 			},
 			["Note"] = "",
 			["Main"] = true
 		},
-		["Kasiopeia"] = 
+		["Raweys"] = 
 		{
 			["Alt"] = 
 			{
-				["Vesla"] = true,
-				["Fullfres"] = true,
-				["Clarisse"] = true,
-				["Hardvit"] = true,
-				["Missmoneypenny"] = true,
-				["Qanuk"] = true
+				["Raweyz"] = true,
+				["Raweyn "] = true,
+				["Raweyl"] = true,
+				["Rowey "] = true,
+				["Rawladriel"] = true,
+				["Rawey"] = true
 			},
 			["Note"] = ""
 		},
-		["Vesla"] = 
+		["Raweyz"] = 
 		{
 			["Alt"] = 
 			{
-				["Kasiopeia"] = true,
-				["Fullfres"] = true,
-				["Clarisse"] = true,
-				["Hardvit"] = true,
-				["Missmoneypenny"] = true,
-				["Qanuk"] = true
+				["Raweys"] = true,
+				["Raweyn "] = true,
+				["Raweyl"] = true,
+				["Rowey "] = true,
+				["Rawladriel"] = true,
+				["Rawey"] = true
 			},
 			["Note"] = ""
 		},
-		["Fullfres"] = 
+		["Raweyn "] = 
 		{
 			["Alt"] = 
 			{
-				["Kasiopeia"] = true,
-				["Vesla"] = true,
-				["Clarisse"] = true,
-				["Hardvit"] = true,
-				["Missmoneypenny"] = true,
-				["Qanuk"] = true
+				["Raweys"] = true,
+				["Raweyz"] = true,
+				["Raweyl"] = true,
+				["Rowey "] = true,
+				["Rawladriel"] = true,
+				["Rawey"] = true
 			},
 			["Note"] = ""
 		},
-		["Clarisse"] = 
+		["Raweyl"] = 
 		{
 			["Alt"] = 
 			{
-				["Kasiopeia"] = true,
-				["Vesla"] = true,
-				["Fullfres"] = true,
-				["Hardvit"] = true,
-				["Missmoneypenny"] = true,
-				["Qanuk"] = true
+				["Raweys"] = true,
+				["Raweyz"] = true,
+				["Raweyn "] = true,
+				["Rowey "] = true,
+				["Rawladriel"] = true,
+				["Rawey"] = true
 			},
 			["Note"] = ""
 		},
-		["Hardvit"] = 
+		["Rowey "] = 
 		{
 			["Alt"] = 
 			{
-				["Kasiopeia"] = true,
-				["Vesla"] = true,
-				["Fullfres"] = true,
-				["Clarisse"] = true,
-				["Missmoneypenny"] = true,
-				["Qanuk"] = true
+				["Raweys"] = true,
+				["Raweyz"] = true,
+				["Raweyn "] = true,
+				["Raweyl"] = true,
+				["Rawladriel"] = true,
+				["Rawey"] = true
 			},
 			["Note"] = ""
 		},
-		["Missmoneypenny"] = 
+		["Rawladriel"] = 
 		{
 			["Alt"] = 
 			{
-				["Kasiopeia"] = true,
-				["Vesla"] = true,
-				["Fullfres"] = true,
-				["Clarisse"] = true,
-				["Hardvit"] = true,
-				["Qanuk"] = true
+				["Raweys"] = true,
+				["Raweyz"] = true,
+				["Raweyn "] = true,
+				["Raweyl"] = true,
+				["Rowey "] = true,
+				["Rawey"] = true
 			},
 			["Note"] = ""
 		},
-		["Vadendil"] = 
+		["Kitycat"] = 
 		{
 			["Alt"] = 
 			{
-				["Aronhael"] = true,
-				["Eonaethryth"] = true
+				["Roswintha"] = true,
+				["Thilletha"] = true,
+				["Caredhrith"] = true,
+				["Laburnum"] = true,
+				["Minimouse"] = true,
+				["Sugarplum"] = true,
+				["Sunnydee"] = true,
+				["Sweetbear"] = true,
+				["Prila"] = true,
+				["Eofna"] = true,
+				["Wiinrad"] = true,
+				["Greyskul"] = true
 			},
 			["Note"] = "",
 			["Main"] = true
 		},
-		["Aronhael"] = 
+		["Roswintha"] = 
 		{
 			["Alt"] = 
 			{
-				["Eonaethryth"] = true,
-				["Vadendil"] = true
+				["Thilletha"] = true,
+				["Caredhrith"] = true,
+				["Laburnum"] = true,
+				["Minimouse"] = true,
+				["Sugarplum"] = true,
+				["Sunnydee"] = true,
+				["Sweetbear"] = true,
+				["Prila"] = true,
+				["Eofna"] = true,
+				["Wiinrad"] = true,
+				["Greyskul"] = true,
+				["Kitycat"] = true
 			},
 			["Note"] = ""
 		},
-		["Eonaethryth"] = 
+		["Thilletha"] = 
 		{
 			["Alt"] = 
 			{
-				["Aronhael"] = true,
-				["Vadendil"] = true
+				["Roswintha"] = true,
+				["Caredhrith"] = true,
+				["Laburnum"] = true,
+				["Minimouse"] = true,
+				["Sugarplum"] = true,
+				["Sunnydee"] = true,
+				["Sweetbear"] = true,
+				["Prila"] = true,
+				["Eofna"] = true,
+				["Wiinrad"] = true,
+				["Greyskul"] = true,
+				["Kitycat"] = true
 			},
 			["Note"] = ""
 		},
-		["Xovamir"] = 
+		["Caredhrith"] = 
 		{
 			["Alt"] = 
 			{
-				["Sovamir"] = true,
-				["Covamir"] = true,
-				["Novamir"] = true,
-				["Kovamir"] = true
+				["Roswintha"] = true,
+				["Thilletha"] = true,
+				["Laburnum"] = true,
+				["Minimouse"] = true,
+				["Sugarplum"] = true,
+				["Sunnydee"] = true,
+				["Sweetbear"] = true,
+				["Prila"] = true,
+				["Eofna"] = true,
+				["Wiinrad"] = true,
+				["Greyskul"] = true,
+				["Kitycat"] = true
+			},
+			["Note"] = ""
+		},
+		["Laburnum"] = 
+		{
+			["Alt"] = 
+			{
+				["Roswintha"] = true,
+				["Thilletha"] = true,
+				["Caredhrith"] = true,
+				["Minimouse"] = true,
+				["Sugarplum"] = true,
+				["Sunnydee"] = true,
+				["Sweetbear"] = true,
+				["Prila"] = true,
+				["Eofna"] = true,
+				["Wiinrad"] = true,
+				["Greyskul"] = true,
+				["Kitycat"] = true
+			},
+			["Note"] = ""
+		},
+		["Minimouse"] = 
+		{
+			["Alt"] = 
+			{
+				["Roswintha"] = true,
+				["Thilletha"] = true,
+				["Caredhrith"] = true,
+				["Laburnum"] = true,
+				["Sugarplum"] = true,
+				["Sunnydee"] = true,
+				["Sweetbear"] = true,
+				["Prila"] = true,
+				["Eofna"] = true,
+				["Wiinrad"] = true,
+				["Greyskul"] = true,
+				["Kitycat"] = true
+			},
+			["Note"] = ""
+		},
+		["Sugarplum"] = 
+		{
+			["Alt"] = 
+			{
+				["Roswintha"] = true,
+				["Thilletha"] = true,
+				["Caredhrith"] = true,
+				["Laburnum"] = true,
+				["Minimouse"] = true,
+				["Sunnydee"] = true,
+				["Sweetbear"] = true,
+				["Prila"] = true,
+				["Eofna"] = true,
+				["Wiinrad"] = true,
+				["Greyskul"] = true,
+				["Kitycat"] = true
+			},
+			["Note"] = ""
+		},
+		["Sunnydee"] = 
+		{
+			["Alt"] = 
+			{
+				["Roswintha"] = true,
+				["Thilletha"] = true,
+				["Caredhrith"] = true,
+				["Laburnum"] = true,
+				["Minimouse"] = true,
+				["Sugarplum"] = true,
+				["Sweetbear"] = true,
+				["Prila"] = true,
+				["Eofna"] = true,
+				["Wiinrad"] = true,
+				["Greyskul"] = true,
+				["Kitycat"] = true
+			},
+			["Note"] = ""
+		},
+		["Sweetbear"] = 
+		{
+			["Alt"] = 
+			{
+				["Roswintha"] = true,
+				["Thilletha"] = true,
+				["Caredhrith"] = true,
+				["Laburnum"] = true,
+				["Minimouse"] = true,
+				["Sugarplum"] = true,
+				["Sunnydee"] = true,
+				["Prila"] = true,
+				["Eofna"] = true,
+				["Wiinrad"] = true,
+				["Greyskul"] = true,
+				["Kitycat"] = true
+			},
+			["Note"] = ""
+		},
+		["Prila"] = 
+		{
+			["Alt"] = 
+			{
+				["Roswintha"] = true,
+				["Thilletha"] = true,
+				["Caredhrith"] = true,
+				["Laburnum"] = true,
+				["Minimouse"] = true,
+				["Sugarplum"] = true,
+				["Sunnydee"] = true,
+				["Sweetbear"] = true,
+				["Eofna"] = true,
+				["Wiinrad"] = true,
+				["Greyskul"] = true,
+				["Kitycat"] = true
+			},
+			["Note"] = ""
+		},
+		["Eofna"] = 
+		{
+			["Alt"] = 
+			{
+				["Roswintha"] = true,
+				["Thilletha"] = true,
+				["Caredhrith"] = true,
+				["Laburnum"] = true,
+				["Minimouse"] = true,
+				["Sugarplum"] = true,
+				["Sunnydee"] = true,
+				["Sweetbear"] = true,
+				["Prila"] = true,
+				["Wiinrad"] = true,
+				["Greyskul"] = true,
+				["Kitycat"] = true
+			},
+			["Note"] = ""
+		},
+		["Wiinrad"] = 
+		{
+			["Alt"] = 
+			{
+				["Roswintha"] = true,
+				["Thilletha"] = true,
+				["Caredhrith"] = true,
+				["Laburnum"] = true,
+				["Minimouse"] = true,
+				["Sugarplum"] = true,
+				["Sunnydee"] = true,
+				["Sweetbear"] = true,
+				["Prila"] = true,
+				["Eofna"] = true,
+				["Greyskul"] = true,
+				["Kitycat"] = true
+			},
+			["Note"] = ""
+		},
+		["Greyskul"] = 
+		{
+			["Alt"] = 
+			{
+				["Roswintha"] = true,
+				["Thilletha"] = true,
+				["Caredhrith"] = true,
+				["Laburnum"] = true,
+				["Minimouse"] = true,
+				["Sugarplum"] = true,
+				["Sunnydee"] = true,
+				["Sweetbear"] = true,
+				["Prila"] = true,
+				["Eofna"] = true,
+				["Wiinrad"] = true,
+				["Kitycat"] = true
+			},
+			["Note"] = ""
+		},
+		["Conanhc"] = 
+		{
+			["Alt"] = 
+			{
+				["Garnoss"] = true,
+				["Elpin"] = true,
+				["Demoiselle"] = true,
+				["Fubla"] = true,
+				["Gwindhillir"] = true,
+				["Procion"] = true,
+				["Ugal"] = true
 			},
 			["Note"] = "",
 			["Main"] = true
 		},
-		["Sovamir"] = 
+		["Garnoss"] = 
 		{
 			["Alt"] = 
 			{
-				["Covamir"] = true,
-				["Novamir"] = true,
-				["Kovamir"] = true,
-				["Xovamir"] = true
+				["Elpin"] = true,
+				["Demoiselle"] = true,
+				["Fubla"] = true,
+				["Gwindhillir"] = true,
+				["Procion"] = true,
+				["Ugal"] = true,
+				["Conanhc"] = true
 			},
 			["Note"] = ""
 		},
-		["Covamir"] = 
+		["Elpin"] = 
 		{
 			["Alt"] = 
 			{
-				["Sovamir"] = true,
-				["Novamir"] = true,
-				["Kovamir"] = true,
-				["Xovamir"] = true
+				["Garnoss"] = true,
+				["Demoiselle"] = true,
+				["Fubla"] = true,
+				["Gwindhillir"] = true,
+				["Procion"] = true,
+				["Ugal"] = true,
+				["Conanhc"] = true
 			},
 			["Note"] = ""
 		},
-		["Novamir"] = 
+		["Demoiselle"] = 
 		{
 			["Alt"] = 
 			{
-				["Sovamir"] = true,
-				["Covamir"] = true,
-				["Kovamir"] = true,
-				["Xovamir"] = true
+				["Garnoss"] = true,
+				["Elpin"] = true,
+				["Fubla"] = true,
+				["Gwindhillir"] = true,
+				["Procion"] = true,
+				["Ugal"] = true,
+				["Conanhc"] = true
 			},
 			["Note"] = ""
 		},
-		["Kovamir"] = 
+		["Fubla"] = 
 		{
 			["Alt"] = 
 			{
-				["Sovamir"] = true,
-				["Covamir"] = true,
-				["Novamir"] = true,
-				["Xovamir"] = true
+				["Garnoss"] = true,
+				["Elpin"] = true,
+				["Demoiselle"] = true,
+				["Gwindhillir"] = true,
+				["Procion"] = true,
+				["Ugal"] = true,
+				["Conanhc"] = true
 			},
 			["Note"] = ""
-		}
+		},
+		["Gwindhillir"] = 
+		{
+			["Alt"] = 
+			{
+				["Garnoss"] = true,
+				["Elpin"] = true,
+				["Demoiselle"] = true,
+				["Fubla"] = true,
+				["Procion"] = true,
+				["Ugal"] = true,
+				["Conanhc"] = true
+			},
+			["Note"] = ""
+		},
+		["Procion"] = 
+		{
+			["Alt"] = 
+			{
+				["Garnoss"] = true,
+				["Elpin"] = true,
+				["Demoiselle"] = true,
+				["Fubla"] = true,
+				["Gwindhillir"] = true,
+				["Ugal"] = true,
+				["Conanhc"] = true
+			},
+			["Note"] = ""
+		},
+		["Ugal"] = 
+		{
+			["Alt"] = 
+			{
+				["Garnoss"] = true,
+				["Elpin"] = true,
+				["Demoiselle"] = true,
+				["Fubla"] = true,
+				["Gwindhillir"] = true,
+				["Procion"] = true,
+				["Conanhc"] = true
+			},
+			["Note"] = ""
+		},
 	},
 	[2.000000] = 100.000000,
 	[3.000000] = 100.000000,
